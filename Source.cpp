@@ -708,7 +708,7 @@ int main()
             }
             else if (mode == 2)
             {
-                fileInput(choice);
+               fileInput(choice);
             }
             else
             {
